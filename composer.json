@@ -21,5 +21,6 @@
         "psr-4": {
             "beyonddigitalit\\cart\\": "src/template/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
