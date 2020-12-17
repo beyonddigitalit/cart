@@ -1,6 +1,6 @@
 <?php
 
-namespace beyonddigitalit\cart;
+namespace Beyonddigitalit\Cart;
 
 class Cart
 {
