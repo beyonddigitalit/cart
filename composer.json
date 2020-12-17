@@ -19,10 +19,11 @@
     ],
     "autoload": {
         "psr-4": {
-            "Beyonddigitalit\\Cart\\": "src"
+            "Beyonddigitalit\\Cart\\": "src/"
         }
     },
     "require": {
         "php": ">=5.6.0"
-    }
+    },
+    "minium-stability": "dev"
 }
