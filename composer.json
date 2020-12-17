@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Beyonddigitalit\\Cart\\": "src/app/"
+            "beyonddigitalit\\cart\\": "src/app/"
         }
     },
     "require": {
